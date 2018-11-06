@@ -44,14 +44,14 @@ avatar: "/img/physics_portrait_re.jpg" #avatar-icon.png"
 
 navbar-col: "#264BDF" #"#33117C"
 navbar-text-col: "#FFFFFF"
-navbar-children-col: "#DF264B" #"#F5F5F5"
+navbar-children-col: "#DC0824" #"#DF264B" #"#F5F5F5"
 page-col: "#3C3C3C"
 text-col: "#FFFFFF"
-link-col: "#DF264B" #008AFF"
+link-col: "#DC0824" #"#DF264B" #008AFF"
 hover-col: "#0085A1"
 footer-col: "#264BDF" #"#F5F5F5"
 footer-text-col: "#FFFFFF" #"#777777"
-footer-link-col: "#DF264B" #"#404040"
+footer-link-col: "#DC0824" #"#DF264B" #"#404040"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
