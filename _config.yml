@@ -56,8 +56,8 @@ footer-link-col: "#DC0824" #"#DF264B" #"#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-navbar-img: "/img/bgimage.png"
-footer-img: "/img/bgimage.png"
+navbar-img: "/img/hubble_esa_quintuplet_cluster_cr.jpg"
+footer-img: "/img/hubble_esa_quintuplet_cluster_cr.jpg"
 # page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
