@@ -8,7 +8,4 @@ Hello! Welcome to my page! My name is Katelyn Stringer and I'm a PhD student in 
 - I teach an undergraduate astronomy lab course ([website](http://observatory.tamu.edu/courses/observational/)).
 - I co-lead [SUPA](https://people.physics.tamu.edu/aibhleog/supa/home.html), a diversity organization in the Department of Physics and Astronomy, along with [Taylor Hutchison](https://people.physics.tamu.edu/aibhleog/), Sarah Cantu, and [Tarini Konchady](https://tkonchady.github.io/))
 
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- Outside of school, I love to read fantasy and young adult fiction, play video games, and create poorly-made latte art with my espresso machine.
