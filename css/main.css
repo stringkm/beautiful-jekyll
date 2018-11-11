@@ -327,6 +327,7 @@ footer .theme-by {
 		1px -1px 0 #000,
 		-1px 1px 0 #000,
 		1px 1px 0 #000;
+  font-weight: 800;
 }
 
 @media only screen and (min-width: 768px) {
