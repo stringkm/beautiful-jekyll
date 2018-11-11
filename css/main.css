@@ -283,6 +283,7 @@ footer {
 
 footer p.text-muted {
   color: {{ site.footer-text-col }};
+  font-weight: 800;
 }
 
 footer a {
