@@ -7,6 +7,9 @@
 url: "https://stringkm.github.io"
 baseurl: ""
 
+# Add in link to projects blog page
+paginate_path: "/projects/page:num/"
+
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
