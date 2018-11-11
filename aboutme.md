@@ -3,7 +3,9 @@ layout: page
 title: About Me
 ---
 
-Hello! Welcome to my page! My name is Katelyn Stringer and I'm an astronomy PhD student advised by [Prof. Lucas Macri](http://people.physics.tamu.edu/lmacri/) at Texas A&M University. My research focus is time series analysis and classification of variable stars. For more information, please click the "Projects" tab. Besides that: 
+Hello! Welcome to my page! My name is Katelyn Stringer and I'm an astronomy PhD student advised by [Prof. Lucas Macri](http://people.physics.tamu.edu/lmacri/) at Texas A&M University. I am also pursuing an Advanced Certificate in Applied Statistics. 
+
+- My main research focus is time series analysis and classification of variable stars, but I enjoy analyzing other types of data too! For more information, please click the "Projects" tab. 
 
 - I currently teach an undergraduate astronomy lab course. For more information, please click the "ASTR 102" tab. 
 
