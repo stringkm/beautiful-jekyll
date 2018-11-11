@@ -273,6 +273,7 @@ footer {
   border-top: 1px #EAEAEA solid;
   margin-top: 50px;
   font-size: 14px;
+  font-weight: 800;
   background-color: {{ site.footer-col }};
   {% if site.footer-img %}
   background-image: url({{ site.footer-img }});
