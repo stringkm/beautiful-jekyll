@@ -25,6 +25,7 @@ description: My Personal Page (Work in Progress!)
 navbar-links:
   Home: "https://stringkm.github.io"
   About Me: "aboutme"
+  Projects: "projects"
   ASTR 102: "astr102"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
