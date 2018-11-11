@@ -56,8 +56,8 @@ footer-link-col: "#DC0824" #"#DF264B" #"#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-navbar-img: "/img/hubble_esa_quintuplet_cluster.jpg"
-footer-img: "/img/hubble_esa_quintuplet_cluster.jpg"
+navbar-img: "/img/hubble_sidekick.jpg"
+footer-img: "/img/hubble_sidekick.jpg"
 # page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
@@ -65,7 +65,7 @@ footer-img: "/img/hubble_esa_quintuplet_cluster.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Image by NASA/ESA
+  name: ESA/Hubble & NASA
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
 # You can reorder the items to define the link order.
