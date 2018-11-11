@@ -284,6 +284,11 @@ footer {
   margin-top: 50px;
   font-size: 14px;
   font-weight: 800;
+  text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
   background-color: {{ site.footer-col }};
   {% if site.footer-img %}
   background-image: url({{ site.footer-img }});
@@ -294,6 +299,11 @@ footer {
 footer p.text-muted {
   color: {{ site.footer-text-col }};
   font-weight: 800;
+  text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
 }
 
 footer a {
@@ -312,6 +322,11 @@ footer .copyright {
 footer .theme-by {
   text-align: center;
   margin: 10px 0 0;
+  text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
 }
 
 @media only screen and (min-width: 768px) {
