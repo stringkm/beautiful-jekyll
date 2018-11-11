@@ -26,8 +26,8 @@ description: My Personal Page (Work in Progress!)
 
 # List of links in the navigation bar
 navbar-links:
-  #Home: "https://stringkm.github.io"
-  About Me: "aboutme"
+  Home: "https://stringkm.github.io"
+  #About Me: "aboutme"
   Projects: "projects/index"
   ASTR 102: "astr102"
   Resources:
