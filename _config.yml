@@ -28,9 +28,9 @@ description: My Personal Page (Work in Progress!)
 navbar-links:
   Home: "https://stringkm.github.io"
   #About Me: "aboutme"
-  Projects: "projects/index"
+  #Projects: "projects/index"
   ASTR 102: "astr102"
-  Resume/CV: "resumecv"
+  Resume: "resumecv"
   #Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #  - Learn markdown: "http://www.markdowntutorial.com/"
