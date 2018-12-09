@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Resume/CV Highlights
+title: Resume
 subtitle:
 ---
 
-Resume and Curriculum Vitae coming soon.
+Please click here for my resume. 
 
