@@ -9,7 +9,7 @@ To correctly classify the object based on its time series data, one must first e
 
 ![Unfolded RR Lyrae light curve](/img/unfoldedlc2.png){:height="250px" width="500px"}
 
-To make best use of the data we have, my previous advisor, [Prof. James Long](https://longjp.github.io/), developed a model that takes these filter offsets into account and uses all the data simultaneously to estimate the period. Below is an example of this model in action on sparse time series data from a real RR Lyrae star. The horizontal axis is now in units of phase, which is the modulo of the date of the observation and the estimated period.
+To make best use of the data we have, one of my previous advisors, [Prof. James Long](https://longjp.github.io/), developed a [model](https://github.com/longjp/rr-templates) that takes these filter offsets into account and uses all the data simultaneously to estimate the period. Below is an example of this model in action on sparse time series data from a real RR Lyrae star. The horizontal axis is now in units of phase, which is the modulo of the date of the observation and the estimated period.
 
 ![RR Lyrae light curve in DES filters](/img/des_folded_jessica.png){:height="250px" width="500px"}
 
