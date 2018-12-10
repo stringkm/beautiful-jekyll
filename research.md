@@ -7,7 +7,7 @@ I currently study RR Lyrae stars, which are stars about the mass of the Sun that
 
 To correctly classify the object based on its time series data, one must first estimate the period of the brightness variations. My research specifically focuses on identifying these stars using very few observations taken in multiple filters. This is difficult because you typically need many observations in one filter to correctly estimate the period, but the data I use from the Dark Energy Survey only has 4-5 observations in each filter so far. Even though there are observations available in multiple filters, it is difficult to combine them because the brightness of an RR Lyrae changes different amounts in each separate filter. An example of this time series data is shown below (MJD stands for "Modified Julian Date" which is measured in days).
 
-![Unfolded RR Lyrae light curve](/img/unfoldedlc.PNG){:height="250px" width="500px"}
+![Unfolded RR Lyrae light curve](/img/unfoldedlc2.png){:height="250px" width="500px"}
 
 To make best use of the data we have, my previous advisor, [Prof. James Long](https://longjp.github.io/), developed a model that takes these filter offsets into account and uses all the data simultaneously to estimate the period. Below is an example of this model in action on sparse time series data from a real RR Lyrae star. The horizontal axis is now in units of phase, which is the modulo of the date of the observation and the estimated period.
 
