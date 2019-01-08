@@ -6,3 +6,8 @@ title: ASTR 102
 Welcome to the ASTR 102 page! You can find the syllabus, lab manual, and other resources for this course on the TAMU observatory [webpage](http://observatory.tamu.edu/courses/observational/).
 
 ### Fall 2018 classes have concluded for the semester. Please check back soon for Spring 2019 course updates.
+
+### Useful Links:
+* [Satellite Tracker](https://www.heavens-above.com/main.aspx?lat=30.5728&lng=-96.3667&loc=TAMU+Observatory&alt=87&tz=CST)
+* [Monthly Sky Maps](http://skymaps.com/articles/index.html)
+* [Astronomy Picture of the Day](https://apod.nasa.gov/apod/astropix.html)
