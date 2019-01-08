@@ -6,7 +6,7 @@ title: ASTR 102
 Welcome to the ASTR 102 page! You can find the syllabus, lab manual, and other resources for this course on the TAMU observatory [webpage](http://observatory.tamu.edu/courses/observational/).
 
 ### Office Hours:
-**Location:** MIST M312 
+**Location:** MIST M312 <br />
 **Time:** Thursdays 1:30-2:30 pm or by appointment
 
 ### Spring 2019 Schedule:
