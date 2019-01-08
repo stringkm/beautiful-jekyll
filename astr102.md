@@ -10,43 +10,43 @@ Thursdays 1:30-2:30 pm in MIST M312
 
 ### Spring 2019 Schedule:
 
-**1. Jan 14:** Syllabus & Introduction to Coordinate Systems
+**1.  Jan 14:** Syllabus & Introduction to Coordinate Systems
 
 [//]: # (Notes)
 
-**2. Jan 21:** No class -- Martin Luther King Jr. Day 
+**2.  Jan 21:** No class -- Martin Luther King Jr. Day 
 <br />
-**3. Jan 28:** TBA 
+**3.  Jan 28:** TBA 
 
 [//]: # (Notes)
 
-[//]: # **4. Feb 4:** 
+[//]: # **4.  Feb 4:** 
 
-[//]: # **5. Feb 11:** 
+[//]: # **5.  Feb 11:** 
 
-[//]: # **6. Feb 18:**
+[//]: # **6.  Feb 18:**
 
-[//]: # **7. Feb 25:**
+[//]: # **7.  Feb 25:**
 
-[//]: # **8. Mar 4:**
+[//]: # **8.  Mar 4:**
 
-[//]: # **9. Mar 11:** No class-- Spring Break
+[//]: # **9.  Mar 11:** No class-- Spring Break
 
-[//]: # **10. Mar 18:** 
+[//]: # **10.  Mar 18:** 
 
-[//]: # **11. Mar 25:** 
+[//]: # **11.  Mar 25:** 
 
-[//]: # **12. Apr 1:** There is class today. No joke!
+[//]: # **12.  Apr 1:** There is class today. No joke!
 
-[//]: # **13. Apr 8:** 
+[//]: # **13.  Apr 8:** 
 
-[//]: # **14. Apr 15:** Last Day to Q-drop
+[//]: # **14.  Apr 15:** Last Day to Q-drop
 
-[//]: # **15. Apr 22:** 
+[//]: # **15.  Apr 22:** 
 
-[//]: # **16. Apr 29:**
+[//]: # **16.  Apr 29:** Last Class
 
-[//]: # **17. May 6:** No class-- Have a great summer! 
+[//]: # **17.  May 6:** No class-- Have a great summer! 
  
 
 ### Useful Links:
