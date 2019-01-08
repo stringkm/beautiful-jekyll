@@ -6,9 +6,9 @@ title: ASTR 102
 Welcome to the ASTR 102 page! You can find the syllabus, lab manual, and other resources for this course on the TAMU observatory [webpage](http://observatory.tamu.edu/courses/observational/).
 
 ### Spring 2019 Section 501
-**1. Jan 14:** Syllabus & Introduction to Coordinate Systems \\
-**2. Jan 21:** No class -- Martin Luther King Jr. Day \\
-**3. Jan 28:** TBA \\
+**1. Jan 14:** Syllabus & Introduction to Coordinate Systems <br />
+**2. Jan 21:** No class -- Martin Luther King Jr. Day <br />
+**3. Jan 28:** TBA <br />
 
  
 
