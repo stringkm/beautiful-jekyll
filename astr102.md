@@ -3,6 +3,8 @@ layout: page
 title: ASTR 102
 ---
 
+![Sunset from the TAMU teaching observatory pier](/img/20181029_183349.jpg){:height="250px width="400px"}
+
 Welcome to the ASTR 102 page! You can find the syllabus, lab manual, and other resources for this course on the TAMU observatory [webpage](http://observatory.tamu.edu/courses/observational/).
 
 ### Office Hours:
