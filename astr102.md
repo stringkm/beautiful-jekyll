@@ -10,6 +10,7 @@ Welcome to the ASTR 102 page! You can find the syllabus, lab manual, and other r
 **1. Jan 14:** Syllabus & Introduction to Coordinate Systems <br />
 
 [//]: # (Notes)
+
 <br />
 **2. Jan 21:** No class -- Martin Luther King Jr. Day 
 <br />
