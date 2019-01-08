@@ -3,8 +3,6 @@ layout: page
 title: ASTR 102
 ---
 
-![Sunset from the TAMU teaching observatory pier](/img/20181029_183349.jpg)
-
 Welcome to the ASTR 102 page! You can find the syllabus, lab manual, and other resources for this course on the TAMU observatory [webpage](http://observatory.tamu.edu/courses/observational/).
 
 ### Office Hours:
@@ -58,3 +56,5 @@ Welcome to the ASTR 102 page! You can find the syllabus, lab manual, and other r
 * [Astronomy Picture of the Day](https://apod.nasa.gov/apod/astropix.html)
 * [TAMU Observatory Weather Data](https://www.wunderground.com/weather/us/tx/college-station/KTXCOLLE20)
 * [Observing Planner by Don Carona](http://doncarona.tamu.edu/apps/planner/)
+
+![Sunset from the TAMU teaching observatory pier](/img/20181029_183349.jpg)
