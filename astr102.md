@@ -56,5 +56,5 @@ Welcome to the ASTR 102 page! You can find the syllabus, lab manual, and other r
 * [Satellite Tracker](https://www.heavens-above.com/main.aspx?lat=30.5728&lng=-96.3667&loc=TAMU+Observatory&alt=87&tz=CST)
 * [Monthly Sky Maps](http://skymaps.com/articles/index.html)
 * [Astronomy Picture of the Day](https://apod.nasa.gov/apod/astropix.html)
-* [TAMU Observatory Weather Data](https://www.wunderground.com/weather/us/tx/college-station/KTXCOLLE20)
+* [TAMU Observatory Weather Conditions](https://www.wunderground.com/weather/us/tx/college-station/KTXCOLLE20)
 * [Observing Planner by Don Carona](http://doncarona.tamu.edu/apps/planner/)
