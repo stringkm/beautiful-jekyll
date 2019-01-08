@@ -5,6 +5,9 @@ title: ASTR 102
 
 Welcome to the ASTR 102 page! You can find the syllabus, lab manual, and other resources for this course on the TAMU observatory [webpage](http://observatory.tamu.edu/courses/observational/).
 
+### Office Hours & Location:
+Thursdays 1:30-2:30 pm in MIST M312 
+
 ### Spring 2019 Schedule:
 
 **1. Jan 14:** Syllabus & Introduction to Coordinate Systems
@@ -14,8 +17,36 @@ Welcome to the ASTR 102 page! You can find the syllabus, lab manual, and other r
 **2. Jan 21:** No class -- Martin Luther King Jr. Day 
 <br />
 **3. Jan 28:** TBA 
-<br />
 
+[//]: # (Notes)
+
+[//]: # **4. Feb 4:** 
+
+[//]: # **5. Feb 11:** 
+
+[//]: # **6. Feb 18:**
+
+[//]: # **7. Feb 25:**
+
+[//]: # **8. Mar 4:**
+
+[//]: # **9. Mar 11:** No class-- Spring Break
+
+[//]: # **10. Mar 18:** 
+
+[//]: # **11. Mar 25:** 
+
+[//]: # **12. Apr 1:** There is class today. No joke!
+
+[//]: # **13. Apr 8:** 
+
+[//]: # **14. Apr 15:** Last Day to Q-drop
+
+[//]: # **15. Apr 22:** 
+
+[//]: # **16. Apr 29:**
+
+[//]: # **17. May 6:** No class-- Have a great summer! 
  
 
 ### Useful Links:
