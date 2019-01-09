@@ -15,7 +15,7 @@ Welcome to the ASTR 102 page! You can find the syllabus, lab manual, and other r
 
 **1.  Jan 14:** Syllabus & Introduction to Coordinate Systems
 
-[Syllabus](http://observatory.tamu.edu/courses/observational/assets/Syllabus_ASTR102_201911.pdf) [Star Chart Notes](http://observatory.tamu.edu/courses/observational/assets/SFAStarCharts_Notes.pdf)
+[Syllabus](http://observatory.tamu.edu/courses/observational/assets/Syllabus_ASTR102_201911.pdf)      [Star Chart Notes](http://observatory.tamu.edu/courses/observational/assets/SFAStarCharts_Notes.pdf)
 
 **2.  Jan 21:** No class -- Martin Luther King Jr. Day 
 
