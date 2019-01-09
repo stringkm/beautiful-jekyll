@@ -19,7 +19,7 @@ Welcome to the ASTR 102 page! You can find the syllabus, lab manual, and other r
 
 **2.  Jan 21:** No class -- Martin Luther King Jr. Day 
 
-**3.  Jan 28:** TBA 
+**3.  Jan 28:** TBA (Weather dependent) 
 
 [//]: # (Notes)
 
