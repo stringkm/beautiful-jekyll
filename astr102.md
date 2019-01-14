@@ -17,7 +17,7 @@ Welcome to the ASTR 102 page! You can find the syllabus, lab manual, and other r
 
 [//]: # [Syllabus](http://observatory.tamu.edu/courses/observational/assets/Syllabus_ASTR102_201911.pdf) &nbsp; [Star Chart Notes](http://observatory.tamu.edu/courses/observational/assets/SFAStarCharts_Notes.pdf)
 
-**Jan 20:** Lunar Eclipse &nbsp; [(NASA Article)](https://www.jpl.nasa.gov/edu/news/2019/1/11/how-to-watch-the-only-total-lunar-eclipse-of-2019-plus-a-supermoon/)
+* **Jan 20:** Lunar Eclipse &nbsp; [(NASA Article)](https://www.jpl.nasa.gov/edu/news/2019/1/11/how-to-watch-the-only-total-lunar-eclipse-of-2019-plus-a-supermoon/)
 
 **2.  Jan 21:** No class -- Martin Luther King Jr. Day 
 
