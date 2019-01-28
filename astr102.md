@@ -25,7 +25,7 @@ Welcome to the ASTR 102 page! You can find the syllabus, lab manual, and other r
 
 [//]: # (Notes)
 
-[//]: # **4.  Feb 4:** 
+**4.  Feb 4:**  TBA (Weather dependent)
 
 [//]: # **5.  Feb 11:** 
 
