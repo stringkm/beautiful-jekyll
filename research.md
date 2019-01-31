@@ -13,10 +13,8 @@ To make best use of the data we have, one of my previous advisors, [Prof. James 
 
 ![RR Lyrae light curve in DES filters](/img/des_folded_jessica.png){:height="250px" width="500px"}
 
-To isolate potential RR Lyrae stars out of the billions of light curves in the Dark Energy Survey data, I applied simple variability cuts to the data to select objects showing brightness variations. Then, I fit the model shown above to hundreds of thousands of these light curves across a computer cluster. Then, I trained a Random Forest classifier to identify likely RR Lyrae stars out of all of these light curves based on how well their data matched the model shape. I identified thousands of these variables. I will post more details as soon as my paper is released. 
+To isolate potential RR Lyrae stars out of the billions of light curves in the Dark Energy Survey data, I applied simple variability cuts to the data to select objects showing brightness variations. Then, I fit the model shown above to hundreds of thousands of these light curves across a computer cluster. Then, I trained a Random Forest classifier to identify likely RR Lyrae stars out of all of these light curves based on how well their data matched the model shape. I identified thousands of these variables. This work has been submitted. The paper and data products will be available soon.
 
 For more information about RR Lyrae stars, the American Association of Variable Star Observers (AAVSO) has an excellent [summary article](https://www.aavso.org/vsots_rrlyr).
-
-Thiw work has been submitted. The paper and data products will be available soon.
 
 [//]: # Due to their changing surface temperatures, the light from RR Lyrae stars changes color over the course of these pulsations. Because of this, t
