@@ -59,4 +59,5 @@ Welcome to the ASTR 102 page! You can find the syllabus, lab manual, and other r
 * [Monthly Sky Maps](http://skymaps.com/downloads.html)
 * [Astronomy Picture of the Day](https://apod.nasa.gov/apod/astropix.html)
 * [TAMU Observatory Weather Conditions](https://www.wunderground.com/weather/us/tx/college-station/KTXCOLLE20)
+* [Clear Sky Chart for College Station](http://www.cleardarksky.com/c/collegestationTXkey.html)
 * [Observing Planner by Don Carona](http://doncarona.tamu.edu/apps/planner/)
