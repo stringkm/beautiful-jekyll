@@ -17,6 +17,6 @@ To isolate potential RR Lyrae stars out of the billions of light curves in the D
 
 For more information about RR Lyrae stars, the American Association of Variable Star Observers (AAVSO) has an excellent [summary article](https://www.aavso.org/vsots_rrlyr).
 
-My paper and data products are coming soon!
+Thiw work has been submitted. The paper and data products will be available soon.
 
 [//]: # Due to their changing surface temperatures, the light from RR Lyrae stars changes color over the course of these pulsations. Because of this, t
