@@ -25,9 +25,9 @@ Welcome to the ASTR 102 page! You can find the syllabus, lab manual, and other r
 
 [//]: # (Notes)
 
-**4.  Feb 4:**  If clear: Telescope & Constellation Outdoor Labs, &nbsp; If cloudy: Spectra
+**4.  Feb 4:** Spectra &nbsp; **Quiz on coordinates and telescopes next week!**
 
-[//]: # **5.  Feb 11:** 
+**5.  Feb 11:** If clear, constellations & telescope outdoor lab &nbsp; If cloudy, Solar System lecture
 
 [//]: # **6.  Feb 18:**
 
