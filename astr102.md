@@ -26,7 +26,7 @@ Welcome to the ASTR 102 page! You can find the syllabus, lab manual, and other r
 [//]: # (Notes)
 
 **4.  Feb 4:** Spectra &nbsp; **Quiz on coordinates and telescopes next week!**
-[Telescope Notes](https://drive.google.com/drive/u/0/folders/0AC-DL00sbACOUk9PVA)
+[Telescope Notes](https://drive.google.com/drive/u/0/folders/0AC-DL00sbACOUk9PVA) &nbsp; [Star Chart Notes](http://observatory.tamu.edu/courses/observational/assets/SFAStarCharts_Notes.pdf)
 
 **5.  Feb 11:** TBA
 
