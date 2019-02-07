@@ -29,7 +29,7 @@ Welcome to the ASTR 102 page! You can find the syllabus, lab manual, and other r
 
 [Telescope Notes](https://drive.google.com/drive/u/0/folders/0AC-DL00sbACOUk9PVA) &nbsp; [Star Chart Notes](http://observatory.tamu.edu/courses/observational/assets/SFAStarCharts_Notes.pdf)
 
-**5.  Feb 11:** TBA
+**5.  Feb 11:** Solar System
 
 [//]: # **6.  Feb 18:**
 
