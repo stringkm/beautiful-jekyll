@@ -31,7 +31,7 @@ Welcome to the ASTR 102 page! You can find the syllabus, lab manual, and other r
 
 **5.  Feb 11:** Solar System
 
-[//]: # **6.  Feb 18:**
+**6.  Feb 18:** Stars
 
 [//]: # **7.  Feb 25:**
 
