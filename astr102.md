@@ -31,13 +31,13 @@ Welcome to the ASTR 102 page! You can find the syllabus, lab manual, and other r
 
 **5.  Feb 11:** Solar System
 
-**6.  Feb 18:** Stars
+**6.  Feb 18:** Telescope Familiarization + Stars
 
-[//]: # **7.  Feb 25:**
+**7.  Feb 25:** TBA
 
-[//]: # **8.  Mar 4:**
+**8.  Mar 4:** TBA
 
-[//]: # **9.  Mar 11:** No class-- Spring Break
+**9.  Mar 11:** No class-- Spring Break
 
 [//]: # **10.  Mar 18:** 
 
