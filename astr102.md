@@ -41,7 +41,7 @@ Welcome to the ASTR 102 page! You can find the syllabus, lab manual, and other r
 
 **9.  Mar 11:** No class-- Spring Break
 
-[//]: # **10.  Mar 18:** 
+**10.  Mar 18:** TBA
 
 [//]: # **11.  Mar 25:** 
 
