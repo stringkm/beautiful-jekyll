@@ -37,7 +37,7 @@ Welcome to the ASTR 102 page! You can find the syllabus, lab manual, and other r
 
 **8.  Mar 4:** Galaxies &nbsp; **Quiz on stars and galaxies after spring break!**
 
-**Galaxy Zoo lab assignment due Friday by 11:59 PM.** 
+&nbsp;**Galaxy Zoo lab assignment due Friday by 11:59 PM.** 
 
 **9.  Mar 11:** No class-- Spring Break
 
