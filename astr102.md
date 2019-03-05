@@ -5,7 +5,7 @@ title: ASTR 102
 
 ![Sunset from the TAMU teaching observatory pier](/img/sunset_pier.jpg)
 
-Welcome to the ASTR 102 page! You can find the syllabus, lab manual, and other resources for this course on the TAMU observatory [webpage](http://observatory.tamu.edu/courses/observational/).
+Welcome to the ASTR 102 page! You can find the syllabus, lab manual, and other resources for this course on the TAMU observatory [webpage](http://observatory.tamu.edu/courses/observational/). Lecture notes can be accessed with your Howdy account [here](https://drive.google.com/drive/u/0/folders/0AC-DL00sbACOUk9PVA).
 
 ### Office Hours:
 **Location:** MIST M312 <br />
@@ -33,9 +33,9 @@ Welcome to the ASTR 102 page! You can find the syllabus, lab manual, and other r
 
 **6.  Feb 18:** Telescope Familiarization + Stars
 
-**7.  Feb 25:** TBA
+**7.  Feb 25:** Constellation Outdoor Lab
 
-**8.  Mar 4:** TBA
+**8.  Mar 4:** Galaxies + Galaxy Zoo &nbsp; **Galaxy Zoo lab assignment due Friday 11:59 PM.** &nbsp;  **Quiz on stars and galaxies after spring break!**
 
 **9.  Mar 11:** No class-- Spring Break
 
