@@ -41,11 +41,11 @@ Welcome to the ASTR 102 page! You can find the syllabus, lab manual, and other r
 
 **9.  Mar 11:** No class-- Spring Break
 
-**10.  Mar 18:** TBA
+**10.  Mar 18:** Observatory Outdoor Lab
 
-**11.  Mar 25:** TBA
+**11.  Mar 25:** Messier Objects Lecture + Outdoor Lab
 
-[//]: # **12.  Apr 1:** There is class today. No joke!
+**12.  Apr 1:** There is class today. No joke! Lab is weather dependent.
 
 [//]: # **13.  Apr 8:** 
 
