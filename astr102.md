@@ -45,7 +45,7 @@ Welcome to the ASTR 102 page! You can find the syllabus, lab manual, and other r
 
 **11.  Mar 25:** Messier Objects Lecture + Outdoor Lab
 
-**12.  Apr 1:** There is class today-- no joke! Lab is weather dependent.
+**12.  Apr 1:** Variable Objects Lecture & Outdoor Lab
 
 **13.  Apr 8:** TBA
 
