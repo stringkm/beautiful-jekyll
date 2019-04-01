@@ -47,13 +47,13 @@ Welcome to the ASTR 102 page! You can find the syllabus, lab manual, and other r
 
 **12.  Apr 1:** There is class today-- no joke! Lab is weather dependent.
 
-[//]: # **13.  Apr 8:** 
+**13.  Apr 8:** TBA
 
-[//]: # **14.  Apr 15:** Last Day to Q-drop
+**14.  Apr 15:** Last Day to Q-drop
 
-[//]: # **15.  Apr 22:** 
+**15.  Apr 22:** TBA
 
-[//]: # **16.  Apr 29:** Last Class
+**16.  Apr 29:** Last Class
 
 [//]: # **17.  May 6:** No class-- Have a great summer! 
  
