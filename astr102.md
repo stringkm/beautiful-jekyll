@@ -47,13 +47,13 @@ Welcome to the ASTR 102 page! You can find the syllabus, lab manual, and other r
 
 **12.  Apr 1:** Variable Objects Lecture & Outdoor Lab
 
-**13.  Apr 8:** TBA
+**13.  Apr 8:** Extraterrestrial Life
 
-**14.  Apr 15:** Last Day to Q-drop
+**14.  Apr 15:** TBA, Last Day to Q-drop
 
 **15.  Apr 22:** TBA
 
-**16.  Apr 29:** Last Class
+**16.  Apr 29:** TBA, Last Class
 
 [//]: # **17.  May 6:** No class-- Have a great summer! 
  
