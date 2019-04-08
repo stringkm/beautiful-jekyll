@@ -47,7 +47,7 @@ Welcome to the ASTR 102 page! You can find the syllabus, lab manual, and other r
 
 **12.  Apr 1:** Variable Objects Lecture & Outdoor Lab
 
-**13.  Apr 8:** Extraterrestrial Life, &nbsp; **Lab practicals will be held on the next clear night!**
+**13.  Apr 8:** Extraterrestrial Life, &nbsp; **Lab practicals will be held on the next clear lab night!**
 
 **14.  Apr 15:** TBA, Last Day to Q-drop
 
