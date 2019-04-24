@@ -49,13 +49,13 @@ Welcome to the ASTR 102 page! You can find the syllabus, lab manual, and other r
 
 **13.  Apr 8:** Extraterrestrial Life, &nbsp; **Lab practicals will be held on the next clear lab night!**
 
-**14.  Apr 15:** TBA, Last Day to Q-drop
+**14.  Apr 15:** Lab practicals, Last Day to Q-drop
 
-**15.  Apr 22:** TBA
+**15.  Apr 22:** Class canceled for Aggie Muster
 
-**16.  Apr 29:** TBA, Last Class
+**16.  Apr 29:** Last Class: Observing (weather permitting)
 
-[//]: # **17.  May 6:** No class-- Have a great summer! 
+**17.  May 6:** No class-- Have a great summer! 
  
 
 ### Useful Links:
