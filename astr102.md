@@ -53,9 +53,9 @@ Welcome to the ASTR 102 page! You can find the syllabus, lab manual, and other r
 
 **15.  Apr 22:** Class canceled for Aggie Muster
 
-**16.  Apr 29:** Last Class: Observing (weather permitting)
+**16.  Apr 29:** Last Class: Dark Matter & Dark Energy
 
-**17.  May 6:** No class-- Have a great summer! 
+**Have a great summer!** 
  
 
 ### Useful Links:
